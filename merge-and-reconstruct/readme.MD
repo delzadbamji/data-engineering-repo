@@ -1,1 +1,4 @@
-
+- This project was created to consolidate segregated features from yearly data and consolidate it into multiple different usecases.
+- The data comes from different years and from different csv files for each year.
+- The columns, data, and files needed to be cleaned to be made useful.
+- The full project can be viewed on request.
