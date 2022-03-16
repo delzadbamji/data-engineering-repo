@@ -13,3 +13,8 @@ def reconstruct_and_create(file,year,output_file):
   '''
   reformat, clean, consolidate, and structure in a tabular csv format  
   '''
+
+def merge_files(file1,file2,output_file):
+  '''
+  Merge two tabular files.
+  '''
