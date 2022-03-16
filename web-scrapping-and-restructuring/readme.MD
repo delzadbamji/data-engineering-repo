@@ -1,1 +1,3 @@
-This project is built to scrap data from the web and then convert it into a tabular format.
+- This project is built to scrap data from the web and then convert it into a tabular csv format.
+- The other project accepts pdf files as inputs, converts it to readable dataframes, clean, consolidate, and then converted to a tabular csv format.
+- The project can be viewed on request.
